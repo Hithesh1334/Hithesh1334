@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Hithesh1334
 - 👀 I’m interested in coding and creting something intersting
 - 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on 3D modeling using blender software.
 - 📫 How to reach me ...hiteshg1334@gmail.com
 
 <!---
